@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amazon Experts</string>
+    <string name="facebook_app_id">3148239601915001</string>
+    <string name="fb_login_protocol_scheme">fb3148239601915001</string>
+</resources>

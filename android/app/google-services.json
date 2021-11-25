@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "914422540898",
+    "firebase_url": "https://hazirsir-bddae.firebaseio.com",
+    "project_id": "hazirsir-bddae",
+    "storage_bucket": "hazirsir-bddae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914422540898:android:6a8a233e80ce8acfef3f3b",
+        "android_client_info": {
+          "package_name": "com.hazirsir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914422540898-ba1lf13vogiq3nspv8m98c72lnki0emm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazirsir",
+            "certificate_hash": "6b3b5baf638facad1f76ca8b983e288e9aefe562"
+          }
+        },
+        {
+          "client_id": "914422540898-7gf4cdrhul2jsm706oe03sp837fok3jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazirsir",
+            "certificate_hash": "c3ab445002d1b4c543bfb392704c752b381d019d"
+          }
+        },
+        {
+          "client_id": "914422540898-srt40i1ela93qf7q3l7nq9hbbdlcr5re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazirsir",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "914422540898-5vlgtvhn399gpsu7etu5j8h8cikbm7pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazirsir",
+            "certificate_hash": "d68223ac5c54640c3e12088d91233a6914170ac8"
+          }
+        },
+        {
+          "client_id": "914422540898-l2dh89tm8j89e9olgmu5a8dq08fga8br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZS7yiqoySRYGcXVS_CRABTBP8WQoCehY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914422540898-l2dh89tm8j89e9olgmu5a8dq08fga8br.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "914422540898-j0he54fpsknld9gb6kdi71c4sqcvpcek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qtsh.Hazirsir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
